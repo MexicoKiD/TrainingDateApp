@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">training</string>
+    <string name="speed_date">SPEED DATE</string>
+    <string name="try_write_and_meet_your_date">Try, write and meet your date!</string>
+    <string name="choose_your_date">Choose your date:</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="name">Name</string>
+    <string name="hobby">Hobby</string>
+    <string name="birthdate">Birth date</string>
+    <string name="city">City</string>
+    <string name="image_view_row">image view row</string>
+</resources>
